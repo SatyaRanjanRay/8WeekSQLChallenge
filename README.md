@@ -20,3 +20,5 @@ Danny has shared with 3 key datasets for this case study:
 - sales
 - menu
 - members
+
+## Week2 SQL Case Study Project: Pizza Runner
